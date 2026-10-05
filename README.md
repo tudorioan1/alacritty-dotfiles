@@ -1,8 +1,8 @@
 # alacritty-dotfiles
-Ghostty is a fast, very customisable, native terminal emulator with a focus on performance and simplicity. This repo contains my personal Alacritty configuration and dotfiles.
+Alacritty is a fast, very customisable, native terminal emulator with a focus on performance and simplicity. This repo contains my personal Alacritty configuration and dotfiles.
 
 ## Installation
-! Install the alacritty terminal for your Linux distro and then proceed with the following steps.
+! Install the Alacritty terminal for your Linux distro and then proceed with the following steps.
 
 ! You might need to install the MesloLGS Nerd Font Mono.
 
@@ -15,9 +15,9 @@ git clone https://github.com/tudorioan1/alacritty-dotfiles.git
    ```
 cd alacritty-dotfiles
 ```
-3. **Copy the configuration file to your Ghostty config directory**:
+3. **Copy the configuration file to your Alacritty config directory**:
 ```
-cp -r ghostty ~/.config/ghostty
+mkdir -p ~/.config/alacritty && cp -a . ~/.config/alacritty
 ```
 
 Enjoy!
