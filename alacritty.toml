@@ -1,9 +1,6 @@
 [general]
 live_config_reload = true
 working_directory = "None"
-
-# Active theme — managed by theme-apply.sh, do not edit manually.
-# Change the theme in ~/.config/dwm-titus/themes.toml instead.
 import = [
   "~/.config/alacritty/active-theme.toml",
   "~/.config/alacritty/keybinds.toml"
