@@ -1,0 +1,2 @@
+# alacritty-dotfiles
+Alacritty dotfiles
